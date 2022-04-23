@@ -1,0 +1,10 @@
+*.swp
+*.o
+draw.cpp
+test.cpp
+build/
+bin/
+lib/
+.github/**
+.vscode/
+cmake/
